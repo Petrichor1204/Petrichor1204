@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi I'm Esi 👋
 
-<!--
-**Petrichor1204/Petrichor1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.S. Computer Science @ Grambling State University 
+🤖 Building AI systems and full-stack applications
+🌍 Passionate about using technology to solve real-world problems in underserved communities
 
-Here are some ideas to get you started:
+Experience 
+Software Engineering Intern, Solera Holdings, LLC.
+June 2025 - August 2025
+AI Assistant – Full-stack .NET + React AI assistant deployed for 100+ businesses, reducing client response time by 30%
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Projects
+🔗 Pick or Pass – Flask web app using Google Gemini 2.0 for movie & book recommendations with PostgreSQL backend
+Code: https://github.com/Petrichor1204/PoP
+Live link: https://pop-web.onrender.com
+
+🔗 Hairly – Multi-tenant AI-driven hair analysis platform with role-based access and stylist dashboards
+Code: https://github.com/Petrichor1204/hAIrly
+
+🔗 Infinite Storyteller – Serverless RPG engine using Cloudflare Workers and Llama 3.3, optimized for global edge deployment
+Code: https://github.com/Petrichor1204/storyteller_main
+
+📝 Writing
+Blog posts: Will start writing soon!
+
+🌐 Connect
+LinkedIn: https://linkedin.com/in/esi-abrokwa
+GitHub: https://github.com/Petrichor1204
+
+
