@@ -2,7 +2,7 @@
 
 B.S. Computer Science @ Grambling State University 
 🤖 Building AI systems and full-stack applications
-🌍 Passionate about using technology to solve real-world problems in underserved communities
+🌍 Passionate about using technology to make everyday tasks easier and fun.
 
 Experience 
 Software Engineering Intern, Solera Holdings, LLC.
