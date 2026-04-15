@@ -10,7 +10,8 @@ June 2025 - August 2025
 AI Assistant – Full-stack .NET + React AI assistant deployed for 100+ businesses, reducing client response time by 30%
 
 
-Projects
+Projects  
+
 🔗 Pick or Pass – Flask web app using Google Gemini 2.0 for movie & book recommendations with PostgreSQL backend  
 
 Code: https://github.com/Petrichor1204/PoP
