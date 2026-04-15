@@ -1,8 +1,7 @@
-## Hi I'm Esi 👋
+## About Esi
 
 B.S. Computer Science @ Grambling State University 
 🤖 Building AI systems and full-stack applications
-🌍 Passionate about using technology to make everyday tasks easier and fun.
 
 Experience 
 Software Engineering Intern, Solera Holdings, LLC.
@@ -22,9 +21,10 @@ Code: https://github.com/Petrichor1204/hAIrly
 Code: https://github.com/Petrichor1204/storyteller_main
 
 📝 Writing
-Blog posts: Will start writing soon!
+Blog posts: https://esi-abrokwa.netlify.app/blog/
 
 🌐 Connect
+Website: https://esi-abrokwa.netlify.app/
 LinkedIn: https://linkedin.com/in/esi-abrokwa
 GitHub: https://github.com/Petrichor1204
 
